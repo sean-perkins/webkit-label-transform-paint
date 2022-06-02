@@ -1,0 +1,7 @@
+{
+  "name": "ion-label-floating-change-detection",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
